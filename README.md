@@ -19,7 +19,9 @@ No styling or templates in this example.
 
 2. In the route where we have the form:  
   - `method="GET"` the search term from the form input to be used as a variable in the request API like this:
-    `var query = request.query.<search>`
+    ```
+    var query = request.query.<search>
+    ```
   - where <search> is the name in your input's name.
   - append the `query`variable at the end of your request API, like this:
   ```
