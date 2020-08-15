@@ -6,7 +6,7 @@ No styling or templates in this example.
 
 * Use the `request` module inside a route
 * Use `JSON.parse(body)` to convert string to JS object
-* Create a dynamic URL for our `request`'s' API.
+* Create a dynamic URL for our `request`'s API.
 
 ## About OMDb API
 
