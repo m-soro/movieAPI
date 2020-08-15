@@ -22,7 +22,7 @@ No styling or templates in this example.
     ```
     var query = request.query.<search>
     ```
-  - where <search> is the name in your input's name.
+  - where `<search>` is the name in your input's name.
   - append the `query`variable at the end of your request API, like this:
   ```
   http://www.omdbapi.com/?s=' + query + &apikey=57483d04
