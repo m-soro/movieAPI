@@ -2,6 +2,12 @@
 A very simple app that has a search form and shows results.
 No styling or templates in this example.
 
+## What we'll do:
+
+* Use the `request` module inside a route
+* Use `JSON.parse(body)` to convert string to JS object
+* Create a dynamic URL for our `request`'s' API.
+
 ## About OMDb API
 
 - Sign up and get your API key.
